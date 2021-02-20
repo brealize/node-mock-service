@@ -1,3 +1,5 @@
+//使用nodejs搭建本地服务器，返回mockjs的测试数据接口模板
+
 let express = require('express');    //引入express模块
 let Mock = require('mockjs');        //引入mock模块
 
